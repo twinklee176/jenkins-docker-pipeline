@@ -1,8 +1,8 @@
 # Jenkins Docker Pipeline 
 
-## Project Overview
+## Overview
 
-This project demonstrates how to set up Jenkins inside a Docker container and create a Jenkins Pipeline that builds and deploys a simple Hello World application using Docker Desktop.
+ It demonstrates how to set up Jenkins inside a Docker container and create a Jenkins Pipeline that builds and deploys a simple Hello World application using Docker Desktop.
 
 The project provides a basic Continuous Integration (CI) workflow where Jenkins automatically builds and runs a Docker container from the application source code.
 
@@ -19,7 +19,7 @@ The project provides a basic Continuous Integration (CI) workflow where Jenkins 
 
 ---
 
-## Project Architecture
+## Work Architecture
 
 ```
 Developer
@@ -42,12 +42,12 @@ Hello World Application
 
 ---
 
-## Project Structure
+## Repository Structure
 
 ```
 jenkins-docker-pipeline/
 │
-├── hello-world/
+├── hello-world-demo/
 │   ├── Dockerfile
 │   ├── Jenkinsfile
 │   ├── index.html
