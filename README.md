@@ -1,4 +1,4 @@
-# Jenkins Docker Pipeline Lab
+# Jenkins Docker Pipeline 
 
 ## Project Overview
 
